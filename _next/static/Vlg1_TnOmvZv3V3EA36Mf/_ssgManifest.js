@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Falmanac\u002F[user]","\u002Fog\u002F[slug]","\u002Fsky\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

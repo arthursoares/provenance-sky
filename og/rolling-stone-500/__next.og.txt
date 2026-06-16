@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[96817,["/provenance-sky/_next/static/chunks/3qeodkhrco5zg.js","/provenance-sky/_next/static/chunks/28dn74n6l5m4l.js"],"default"]
+3:I[87494,["/provenance-sky/_next/static/chunks/3qeodkhrco5zg.js","/provenance-sky/_next/static/chunks/28dn74n6l5m4l.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Vlg1_TnOmvZv3V3EA36Mf"}
